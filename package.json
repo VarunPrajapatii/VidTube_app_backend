@@ -1,0 +1,21 @@
+{
+  "name": "chai-aur-code-youtube-backend-project",
+  "version": "1.0.0",
+  "description": "VidTube backend part",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascrpit",
+    "express",
+    "mongoose",
+    "vidtube"
+  ],
+  "author": "Varun Prajapati",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
